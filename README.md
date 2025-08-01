@@ -14,7 +14,7 @@ Uses the `movie_reviews` corpus from NLTK — 2000 reviews labeled as positive o
 
 1. Clone this repo:
    bash:
-   git clone https://github.com/your-username/Sentiment-analysis-on-movie-reviews.git
+   git clone https://github.com/Anishtaa/Sentiment-analysis-on-movie-reviews.git
    cd Sentiment-analysis-on-movie-reviews
 
 2. Set up The environment:
